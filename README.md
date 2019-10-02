@@ -19,3 +19,7 @@ Sample code from my thesis project
 - Represented "l_c_dict" in pandas
 
 - A few regex expressions for the cleaning of the meta-data present in the corpus
+
+#Entrainment of internet slang terms via Tweets for a Corpus Analysis course
+
+This project dealt with the hypothesis that Twitter users entrain on one another through popular internet slang terms. Using Twitter API and a scraper, Original tweets using slang terms are compared to reply tweets to see how frequent is the case of entrainment.
