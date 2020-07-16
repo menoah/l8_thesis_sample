@@ -1,15 +1,13 @@
-## L8_thesis_sample
+# L8_thesis_sample
 
 My Master’s thesis involved a classification task in Python and Jupyter notebooks to perform a quantitative error analysis of language learner's production in English. The study involves observations of Spanish-speaking language learner errors from teachers in the classroom setting, proposed popular error types produced by Spanish-speaking English Language Learners in literature, and a classification task of error reporting through parallel distance edits using ERRANT (ERRor ANnotation Toolkit, https://github.com/chrisjbryant/errant) and language learner data from the Lang-8 corpus, a language exchange website (https://sites.google.com/site/naistlang8corpora/). Additionally, I used Jupyter notebooks for data pre-processing and cleaning. It is anticipated that the resulting statistical analysis would benefit NLP (Natural Language Processing), CALL (Computer Assisted Language Learning), and Education communities.
 
-ERRANT
-======
+## ERRANT
 Christopher Bryant, Mariano Felice, and Ted Briscoe. 2017. Automatic annotation and evaluation of error types for grammatical error correction. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vancouver, Canada.
 
 Mariano Felice, Christopher Bryant, and Ted Briscoe. 2016. Automatic extraction of learner errors in ESL sentences using linguistically enhanced alignments. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. Osaka, Japan.
 
-Lang-8 Corpus
-======
+## Lang-8 Corpus
 - Tomoya Mizumoto, Yuji Matsumoto. Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT2016), pp. 1133-1138, San Diego, California, America. June 2016.
 
 - Ippei Yoshimoto, Tomoya Kose, Kensuke Mitsuzawa, Keisuke Sakaguchi, Tomoya Mizumoto, Yuta Hayashibe, Mamoru Komachi, Yuji Matsumoto. NAIST at 2013 CoNLL Grammatical Error Correction Shared Task. In Proceedings of the Seventeenth Conference on Computational Natural Language Learning: Shared Task, pages 26-33, Sofia, Bulgaria, August 2013.
